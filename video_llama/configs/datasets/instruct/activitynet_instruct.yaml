@@ -1,0 +1,6 @@
+datasets:
+  activitynet_instruct:
+    data_type: image
+    build_info:
+      anno_dir: ~/Video-LLaMA/data/VideoInstruct_Dataset.json
+      videos_dir: datasets/activitynet
